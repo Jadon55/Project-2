@@ -3,11 +3,11 @@ Data Science Bootcamp - Project 2
 
 ## API
 - static
-  - site.css : Styling for the flask homepage
+  - [site.css](https://github.com/Jadon55/Project-2/blob/main/API/static/site.css) : Styling for the flask homepage
 - templates
-  - index.html : Homepage html
-- app.py : Flask webpage / API routes
-- data_collection.py : Functions responsible for connecting to, and getting data from the database
+  - [index.html](https://github.com/Jadon55/Project-2/blob/main/API/templates/index.html) : Homepage html
+- [app.py](https://github.com/Jadon55/Project-2/blob/main/API/app.py) : Flask webpage / API routes
+- [data_collection.py](https://github.com/Jadon55/Project-2/blob/main/API/data_collection.py) : Functions responsible for connecting to, and getting data from the database
   
 ## ERD
 - QuickDBD-export.png : Image of the QuickDB tables and relationships
