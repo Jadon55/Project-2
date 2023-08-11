@@ -4,7 +4,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, text, inspect, func
 
 def test():
-    engine = create_engine("postgresql://postgres:fartface92@localhost:5432/crowdfunding_db")
+    engine = create_engine("postgresql://postgres:{PASSWORD_HERE}@localhost:5432/crowdfunding_db")
 
     result = engine.execute(text('SELECT * FROM campain LIMIT 5')).fetchall()
     result_dicts = [dict(row) for row in result]
