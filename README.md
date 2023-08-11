@@ -1,5 +1,5 @@
 # Project-2
-Data Science Bootcamp - Project 2 (Mini)
+Data Science Bootcamp - Project 2 (Mini) <br>
 Group: Jadon C
 
 ## API
